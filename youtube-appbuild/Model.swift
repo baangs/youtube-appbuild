@@ -44,3 +44,7 @@ var x = 1
 var b = 0
 
 var t = 9
+
+var p = 1
+
+var i = 0
