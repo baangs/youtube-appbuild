@@ -52,3 +52,4 @@ class Model {
     }
 }
 
+var x = 0
