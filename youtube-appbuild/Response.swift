@@ -23,4 +23,4 @@ struct Response : Decodable {
     }
 }
 
-var y = 0
+
