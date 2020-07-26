@@ -50,6 +50,15 @@ class Model {
         dataTask.resume()
         
     }
+
+
+
+
+
+
+
+
+
 }
 
 
